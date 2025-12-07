@@ -1,1 +1,4 @@
 lightgbm
+matplotlib
+seaborn
+scikit-learn
